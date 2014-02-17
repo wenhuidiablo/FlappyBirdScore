@@ -10,4 +10,4 @@ wenhui增加微信公众号版本
 
 使用方法参见wx.php
 
-<http://wenhui.ncu.me>
+<http://wenhui.ncu.me/>
