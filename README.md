@@ -6,5 +6,7 @@ Flappy Bird 成绩生成器（微信公众号版）
 <http://bird.misuisui.com/>
 
 wenhui增加微信公众号版本
+
 使用方法参见wx.php
+
 <http://wenhui.ncu.me>
